@@ -130,8 +130,8 @@ in html, css, javascript, testing, react, database management in building softwa
           title: 'Portfolio Website',
           description: 'A responsive portfolio website built with React and TypeScript',
           image: portfolioImage,
-          githubLink: 'https://github.com/username/portfolio-website',
-          liveSiteLink: 'https://portfolio-website.com',
+          githubLink: 'https://github.com/Nnamuka01/Personal-Portfolio',
+          liveSiteLink: 'https://personal-portfolio-delta-ten-11.vercel.app/',
         },
       ].map((project) => (
         <div key={project.title} className="bg-gray-800 rounded-lg overflow-hidden shadow-lg">
