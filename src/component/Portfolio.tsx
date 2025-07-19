@@ -48,8 +48,8 @@ export default function Portfolio() {
                 className="rounded-full w-48 h-48 object-cover border-4 border-blue-500"
               />
             </div>
-            <h1 className="text-5xl font-bold mb-4">Nnamuka Chukwuka</h1>
-            <p className="text-xl mb-8">Web Developer</p>
+            <h1 className="text-5xl font-bold mb-4">Chukwuka Nnamuka</h1>
+            <p className="text-xl mb-8">Frontend Engineer</p>
             <button
               onClick={() => scrollToSection('about')}
               className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full transition-colors flex items-center mx-auto"
