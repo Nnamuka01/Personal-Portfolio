@@ -223,7 +223,7 @@ in html, css, javascript, testing, react, database management in building softwa
             <a href="https://github.com/Nnamuka01" target='_blank' rel='noopener noreferrer' className="hover:text-blue-400 transition-colors">
               <Github />
             </a>
-            <a href="https://linkedin.com/in/Nnamuka Chukwuka" target='_blank' rel='noopener noreferrer' className="hover:text-blue-400 transition-colors">
+            <a href="https://www.linkedin.com/in/nnamuka-chukwuka-717038286/" target='_blank' rel='noopener noreferrer' className="hover:text-blue-400 transition-colors">
               <Linkedin />
             </a>
             <a href="mailto:govanokaka22@gmail.com" target='_blank' rel='noopener noreferrer' className="hover:text-blue-400 transition-colors">
